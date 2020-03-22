@@ -10,10 +10,10 @@
 
 如：
 
-https://cdn.jsdelivr.net/gh/malaohu/jscdn@latest/pic.png
+https://cdn.jsdelivr.net/gh/xhot/jscdn@latest/1.jpg
 
-https://cdn.jsdelivr.net/gh/malaohu/jscdn/pic.png
+https://cdn.jsdelivr.net/gh/xhot/jscdn/1.jpg
 
-https://cdn.jsdelivr.net/gh/malaohu/jscdn@master/pic.png
+https://cdn.jsdelivr.net/gh/xhot/jscdn@master/1.jpg
 
 直接@master，就不用新建releases了！
